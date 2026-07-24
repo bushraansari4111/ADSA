@@ -16,3 +16,8 @@ int main() {
 
     return 0;
 }
+
+//OUTPUT:
+Enter the key value : 25
+Enter the Table Size :10
+Has index =5
