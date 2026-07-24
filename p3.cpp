@@ -27,3 +27,10 @@ int main() {
 
     return 0;
 }
+
+//OUTPUT:
+// Enter the Table Size :
+// 10
+// Enter the key value :
+// BUSHRA
+// Has Index = 6
