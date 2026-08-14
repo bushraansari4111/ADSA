@@ -13,7 +13,7 @@ void ENQUEUE(int vertex)
 {
     if (rear == MAX - 1)
     {
-        return; // Queue full
+        return; 
     }
 
     if (front == -1)
@@ -29,7 +29,7 @@ int DEQUEUE()
 {
     if (front == -1)
     {
-        return -1; // Queue empty
+        return -1;
     }
 
     int vertex = queueArr[front];
